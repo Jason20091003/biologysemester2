@@ -3,7 +3,6 @@
         "how are single-gene traits determined?": "By a single gene with dominant and recessive alleles",
         "which genotype represents an organism that is homozygous?": "GG",
         "what is the definition of \"phenotype\"?": "The set of observable characteristics of an organism",
-        // 只留严格的小写 "e"，避免多余匹配
         "which allele could represent the recessive trait for earlobe attachment?": "e",
         "what is the dominant phenotype for the \"hitchhiker’s thumb\" trait": "Straight Thumb",
         "what is a punnett square used for?": "To predict the probability of offspring inheriting specific genotypes and phenotypes",
